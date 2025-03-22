@@ -2,6 +2,8 @@
 
 This project performs human pose estimation using OpenCV and Mediapipe. It identifies keypoints of the human body in both static images and real-time webcam feeds, allowing for applications such as fitness tracking, gesture recognition, and movement analysis.
 
+<img width="391" alt="Image" src="https://github.com/user-attachments/assets/ffd6e943-6af6-461e-909c-7b1ace0b1268" />
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -112,6 +114,3 @@ The performance of the pose estimation system is evaluated based on:
 - Integrate with other AI models for advanced gesture recognition.
 - Deploy as a web or mobile application.
 
----
-
-This README provides a structured and detailed overview of the pose estimation project. Let me know if you need any further enhancements! 🚀
