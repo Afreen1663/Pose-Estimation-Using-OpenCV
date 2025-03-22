@@ -55,7 +55,7 @@ Pose estimation is a computer vision technique used to detect and track keypoint
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/pose-estimation.git
+   git clone https://github.com/Afreen1663/Pose-Estimation-Using-OpenCV.git
    ```
 2. Install dependencies:
    ```sh
